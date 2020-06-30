@@ -1,0 +1,105 @@
+.border-0 {
+    height : 50%;
+    background-color: #1A1A1D;
+}
+
+.top-colors {
+    height: 5px;
+}
+
+#c1 {
+    width: 20%;
+    background-color: #2a9d8f;   
+}
+#c2 {
+    width: 20%;
+    background-color: #f4a261;
+}
+#c3 {
+    width: 20%;
+    background-color: #264653;
+}
+#c4 {
+    width: 20%;
+    background-color: #e9c46a; 
+}
+#c5 {
+    width: 20%;
+    background-color: #e76f51;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+  
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+  
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+#table-head {
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Oswald';
+}
+
+.c-heading {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Oswald';
+    font-weight: bold;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Oswald';
+    font-weight: bold;
+    width: 60%;
+    margin:0 auto;
+    padding: 50px 50px 0px 50px;
+}
+
+#subtitle {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Oswald';
+    font-weight: lighter;
+    width: 50%;
+    margin:0 auto;
+    color: #aaaaaa
+}
+
+.img-r {
+    float: right;
+}
+
+.img-l {
+    float: left;
+}
+
+.split {
+    margin:50px;
+    padding: 30px;
+    overflow: auto;
+    font-family: 'Oswald';
+    font-size: 22px;
+}
+
